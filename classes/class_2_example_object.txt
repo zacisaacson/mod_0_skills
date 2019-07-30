@@ -1,0 +1,11 @@
+Marmotte Bistro
+
+valet (true)
+average_price (30.5)
+daily_customers (40)
+name (Marmotte Bistro)
+
+buy_the_restaurant (changes the name attribute to "Zac's Bistro")
+serving_specials (daily_customers increases to 60, average_price decreases to 20.5)
+closing_early (change the number of daily_customers to 20)
+serving_brunch (change to valet = false)
