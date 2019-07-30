@@ -1,0 +1,15 @@
+class Restaurant
+
+attributes
+
+valet (boolean)
+average_price (float)
+daily_customers (integer)
+name (string)
+
+methods
+
+buy_the_restaurant (change the name attribute)
+serving_specials (increase the daily_customers and decrease the average_price)
+closing_early (change the number of daily_customers)
+serving_brunch (change to valet to false)
