@@ -1,0 +1,15 @@
+class Restaurant
+
+attributes
+
+occupancy (integer)
+food_specialty (string)
+happy_hour (boolean)
+hours_open (float)
+
+methods
+
+close_for_holidays (changes hours_open)
+arrive_after_7 (changes happy_hour attribute to false)
+making_renovations (lowers occupancy)
+serve_brunch (change food specialty)
