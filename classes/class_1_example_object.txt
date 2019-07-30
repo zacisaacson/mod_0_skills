@@ -1,0 +1,11 @@
+Mortons steakhouse
+
+occupancy (150)
+food_specialty ("Steak")
+happy_hour (true)
+hours_open (8.0)
+
+close_for_holidays (changes hours_open to 0.0)
+arrive_after_7 (happy_hour = false)
+making_renovations (changes occupancy to 100)
+serve_brunch (changes food_specialty from "Steak" to "Brunch")
