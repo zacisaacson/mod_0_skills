@@ -1,4 +1,4 @@
-The Club Sandwich
+The Famous Club Sandwich
 
 price (24.99)
 type ('lunch')
