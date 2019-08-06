@@ -1,0 +1,15 @@
+class Food
+
+attributes
+
+price (float)
+type (string)
+size (integer)
+available_at_lunch (boolean)
+
+methods
+
+serve_as_special (reduces prices and size attributes)
+eat_for_dinner (changes type attribute to 'dinner')
+split_course (reduces size attribute by half)
+sell_out (changes available_at_lunch attribute to false)

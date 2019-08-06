@@ -1,0 +1,11 @@
+The Club Sandwich
+
+price (24.99)
+type ('lunch')
+size (12) oz
+available_at_lunch (true)
+
+serve_as_special (reduces price to 14.99 and reduces size to 10 oz)
+eat_for_dinner (changes type string to 'dinner')
+split_course (reduces size attribute to 6 oz)
+sell_out (changes available_at_lunch to false)
